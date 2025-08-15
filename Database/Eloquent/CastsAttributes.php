@@ -5,7 +5,6 @@ namespace Illuminate\Contracts\Database\Eloquent;
 use Illuminate\Database\Eloquent\Model;
 
 /**
- * test
  * @template TGet
  * @template TSet
  */
